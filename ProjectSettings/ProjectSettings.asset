@@ -606,10 +606,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 00320681-5725-4a1c-b5dd-b62a86dfbe52
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: HelloAnalytics
+  organizationId: sae_gpd_hh
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
